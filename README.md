@@ -1,5 +1,5 @@
 
-#Java Chat Application
+## Java Chat Application
 This is a simple chat application implemented in Java using Swing for the graphical user interface and sockets for communication between a server and a client. The application allows two users to exchange text messages in real-time.
 
 ## Features
@@ -25,11 +25,12 @@ This is a simple chat application implemented in Java using Swing for the graphi
    - The chat history is displayed in the chat area.
 
 4. **Exiting:**
-   - Click the "X" button on the top-right corner of the application window to exit.
+   - Click the "Back" button on the top-left corner of the application window to exit.
 
 ## Screenshots
 
-Include screenshots of the application to give users a visual overview of how the chat application looks.
+![op1](https://github.com/Dhamma-007/chatting-application-java/assets/88797388/33e5e991-fbdb-4452-be27-00274bb5b09f)
+
 
 ## Dependencies
 
